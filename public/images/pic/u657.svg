@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="92px" height="92px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" id="filter105">
+      <feColorMatrix type="matrix" values="1 0 0 0 -0.533333333333333  0 1 0 0 -0.533333333333333  0 0 1 0 -0.533333333333333  0 0 0 1 0  " in="SourceGraphic" />
+    </filter>
+  </defs>
+  <g transform="matrix(1 0 0 1 -322 0 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="92" height="92" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAYAAACtWK6eAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEwAACxMBAJqcGAAAA9xJREFUeJzt3U+opXUdx/H3aGN/NDQXMQwkirgoxDQhkCDCoDSRauHCjUSUuxYqzM6NGxFsJ2hCi4h2RQgTkTJgURA5StEqxIULrRYxRRmaY6fFwzSMM3dm7r3nPL8z57xe8OzuPXweuB+e+z3P8/s9BQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwea6rvjA6BKyjj1d/qj45Ogism6urV6p/VpcPzgJr5cPVr6pF9cvBWWCtHKyONpVjUX13bBxYH5dVP+p0ORbV/UMTwZo4UD3VmeVYVDeNDAXr4rHOLsffm64qsNUe6uxyLKpjI0PBOvhG5y7HonpiXCwY72vVe+1ckPvGRYOxvli9087lWFQ3DEsHA322+lfnL8ffmr7Zgq3yqaY//vOVY1H9YlTAbeXrwvGur16orr2Inz2+2iiwXg5Vr3bhK8ep4+tjYsL8rqn+0MWXY1F9YkhSmNmV1W/aXTn+mgGdLXBF9fN2V45F9bMRYbedIX1el1c/rO7aw+8a0NloB6rvtfsrx6nj3vkjw3web+/lWFSH548M8zjS/srxxvyRYR7fbn/lWFTPzZ4aZnBf9d/2X5BH5w4Oq/al6j/tvxyL6u6Zs8NK3VG91XLKsWjaLA42wi3ViZZXjtfnjQ+rc2P155ZXjkX1k1nPgDO4k748h5seWz+05M91B32gD4wOsCGurZ5vNcthP9q0Tn0v3moqLQxzVfXblvtv1TKOd6svr/C8t4IryP49Up1senx9tz7WtNx2FR7IEl0ucQ+2mqvHd+Y8CViVZ1t+OR6b9QxghV5uueV4JqsO2RAfbHmPoiyqH+etU2yQ21teOY41FQ42xrIG9ONN90pYAXfSx7l9CZ/xavWVppd6wkY53v6uHG827coIG+eKLryL+/mOE9XNs6eGmXymvZfj39Xn5o8M89nrOvWT1T0D8sKs9ro/1gMjwsLc9jKgPzwkKcxsLwP640OSwgC7HdC/n+er2CK7GdB/mjU7bJlnurhyvFh9aExEGOelLlyO31dXjwoIo1zMgP5ay98ZBS4Jt3X+cvylaW8t2Erfaudy/KP69LhoMN5OA/rb1ecH5oK1cK4B/b3qqyNDwTrYaUD/5shQsC7ONaAfGZoI1sj7B/Qn8wgJ/N/TnS7HD7IfAJzhd03lOFodHJwF1srBpq9yf119ZHAWWDu3Vn9s2s0deJ87m95ABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwUf4HiO6RcmqEVAkAAAAASUVORK5CYII=" x="322px" y="0px" filter="url(#filter105)" />
+  </g>
+</svg>

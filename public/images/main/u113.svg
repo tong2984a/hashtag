@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="424px" height="89px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="214.946749226006" y1="0" x2="214.946749226006" y2="75.5528989838613" id="LinearGradient16">
+      <stop id="Stop17" stop-color="#f4b242" offset="0" />
+      <stop id="Stop18" stop-color="#facd91" offset="1" />
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="214.946749226006" y1="0" x2="214.946749226006" y2="75.5528989838613" id="LinearGradient19">
+      <stop id="Stop20" stop-color="#f4b242" offset="0" />
+      <stop id="Stop21" stop-color="#facd91" offset="1" />
+    </linearGradient>
+    <mask fill="white" id="clip22">
+      <path d="M 0 79  L 0 0  L 414 0  L 414 46  C 414 57.2  405.2 66  394 66  L 16.25 66  C 16.25 66  10.489443248664 65.9558815229486  6 69.5  C 1.34268047739397 73.176645690646  0 79  0 79  Z " fill-rule="evenodd" />
+    </mask>
+    <filter x="-5px" y="-4px" width="424px" height="89px" filterUnits="userSpaceOnUse" id="filter23">
+      <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
+      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.0823529411764706 0  " in="shadowComposite" />
+    </filter>
+    <g id="widget24">
+      <path d="M 0 79  L 0 0  L 414 0  L 414 46  C 414 57.2  405.2 66  394 66  L 16.25 66  C 16.25 66  10.489443248664 65.9558815229486  6 69.5  C 1.34268047739397 73.176645690646  0 79  0 79  Z " fill-rule="nonzero" fill="url(#LinearGradient16)" stroke="none" />
+      <path d="M 0 79  L 0 0  L 414 0  L 414 46  C 414 57.2  405.2 66  394 66  L 16.25 66  C 16.25 66  10.489443248664 65.9558815229486  6 69.5  C 1.34268047739397 73.176645690646  0 79  0 79  Z " stroke-width="2" stroke="url(#LinearGradient19)" fill="none" mask="url(#clip22)" />
+    </g>
+  </defs>
+  <g transform="matrix(1 0 0 1 5 4 )">
+    <use xlink:href="#widget24" filter="url(#filter23)" />
+    <use xlink:href="#widget24" />
+  </g>
+</svg>
